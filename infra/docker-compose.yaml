@@ -10,7 +10,7 @@ services:
       - ./.env
 
   web:
-    build: ../api_yamdb/
+    image: alastor047/infra_sp2:v1.1
     restart: always
     volumes:
       - static_value:/app/static/
