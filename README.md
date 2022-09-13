@@ -1,4 +1,4 @@
-# Educational project: [api_yamdb](http://62.84.122.16/)
+# Educational project: [api_yamdb](http://62.84.122.16/admin)
 RestAPI for Custom Imdb service - database of movies, books, music reviews
 ## About
 API for the Custom IMDB service. Allows you to work with:
